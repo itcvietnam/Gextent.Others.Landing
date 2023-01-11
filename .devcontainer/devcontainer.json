@@ -1,6 +1,5 @@
 {
   "image": "mcr.microsoft.com/devcontainers/universal:2",
-  "dev:only": "vite dev --host",
   "forwardPorts": [3000],
   "features": {
   }
